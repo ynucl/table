@@ -200,11 +200,45 @@
   .btn2 {
       width: 160px;
       height: 32px;
-      background: rgb(153, 160, 152);
+      background-image:url(表紙加工.jpg);
+      background-position:top left;
+      background-repeat:no-repeat;
+      background-size: cover;
+      /* background: rgba(255, 255, 255, 0.404); */
       text-align: center;
       padding: 4px;
-      color: white;
+      color: rgb(255, 255, 255);
+      font-weight: bold;
       cursor: pointer;
+  }
+
+  .btn3 {
+    width: 160px;
+    height: 32px;
+    background-image:url(03加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+}
+  .btn4 {
+    width: 160px;
+    height: 32px;
+    background-image:url(04加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
   }
 
   .btn:hover {
@@ -214,6 +248,7 @@
   .btn2 h5 {
     color: rgb(255, 255, 255);
   }
+
   footer {
     padding-top: 60px;
     padding-bottom: 60px;
