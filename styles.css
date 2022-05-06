@@ -240,6 +240,90 @@
     font-weight: bold;
     cursor: pointer;
   }
+  .btn5 {
+    width: 160px;
+    height: 32px;
+    background-image:url(05加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .btn6 {
+    width: 160px;
+    height: 32px;
+    background-image:url(06加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .btn7 {
+    width: 160px;
+    height: 32px;
+    background-image:url(07加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .btn8 {
+    width: 160px;
+    height: 32px;
+    background-image:url(08加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .btn9 {
+    width: 160px;
+    height: 32px;
+    background-image:url(09加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .btn10 {
+    width: 160px;
+    height: 32px;
+    background-image:url(10加工.jpg);
+    background-position:top left;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background: rgba(255, 255, 255, 0.404); */
+    text-align: center;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+  }
 
   .btn:hover {
       opacity: 0.8;
